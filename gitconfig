@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jennacodes101@gmail.com
+	name = Jenna Castillo
